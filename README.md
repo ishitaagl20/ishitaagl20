@@ -24,10 +24,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-24292E?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ishita_agl20?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ishita_agl20/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
-
 ### My GitHub Profile
 
+![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 [![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20)](https://github.com/ishitaagl20)
 
 

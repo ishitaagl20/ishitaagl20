@@ -1,3 +1,4 @@
+<br>
 <h1> Hi, I'm Ishita ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -27,6 +28,8 @@
 ### My GitHub Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
+<br>
+<br>
 [![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20)](https://github.com/ishitaagl20)
 
 

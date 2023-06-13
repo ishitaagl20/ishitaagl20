@@ -26,6 +26,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 
+### My GitHub Profile
+
 [![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20)](https://github.com/ishitaagl20)
 
 

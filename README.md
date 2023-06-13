@@ -19,7 +19,10 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+### Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-agarwal-20/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-24292E?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ishita_agl20?hr_r=1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ishita_agl20/)
 
 <!--
 **ishitaagl20/ishitaagl20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

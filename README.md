@@ -1,5 +1,7 @@
 <h1> Hi, I'm Ishita ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" align="right">
+
 - 👩‍💻 I am a Computer Science and Engineering Student
 - ✨ I am a Women Engineers Scholar 
 - 📊 I am an aspiring Data Analyst

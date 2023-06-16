@@ -31,10 +31,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ishita_agl20/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="350" align="right">
 
 
-### My GitHub Profile
+
+### My GitHub Profile 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 <br>

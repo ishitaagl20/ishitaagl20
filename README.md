@@ -1,15 +1,11 @@
 <h1> Hi, I'm Ishita ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" align="right">
-<br>
-
 - 👩‍💻 I am a Computer Science and Engineering Student
 - ✨ I am a Women Engineers Scholar 
 - 📊 I am an aspiring Data Analyst
 - 🔭 I am exploring AI/ML and Web Development
 - 🎨 I like creative designing
 
-<br>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +29,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ishita_agl20/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)
 
+
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="500" align="right">
 
 ### My GitHub Profile
 

@@ -40,7 +40,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 <br>
 <br>
-[![Ishita Agarwal](https://github-readme-stats.vercel.app/api?username=ishitaagl20&show_icons=true&count_private=true&theme=algolia)](https://github.com/ishitaagl20)
+<a href="https://github.com/ishitaagl20/github-readme-stats"><img alt="Ishita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishitaagl20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+
 
 
 <!--

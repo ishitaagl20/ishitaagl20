@@ -41,7 +41,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 <br>
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

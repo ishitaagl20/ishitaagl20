@@ -41,8 +41,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitaagl20)
 <br>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20&show_icons=true&theme=react)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=ishitaagl20&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishitaagl20&theme=algolia)
+
 
 
 <!--

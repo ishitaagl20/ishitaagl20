@@ -43,7 +43,7 @@
 <br>
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=ishitaagl20)-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishitaagl20&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ishitaagl20&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ishitaagl20&theme=react)
 <!--
 **ishitaagl20/ishitaagl20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

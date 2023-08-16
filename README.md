@@ -5,7 +5,7 @@
 - 👩‍💻 I am a Computer Science and Engineering Student
 - ✨ I am a Women Engineers Scholar 
 - 📊 I am an aspiring Data Analyst
-- 🔭 I am exploring AI/ML and Web Development
+- 🔭 I am exploring Data Sciene, AI/ML and Web Development
 - 🎨 I like creative designing
 
 

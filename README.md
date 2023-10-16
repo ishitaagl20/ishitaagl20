@@ -31,10 +31,10 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-24292E?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ishita_agl20?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ishita_agl20/)
 
-#### Celebrating Open Source with HacktoberFest 2023✨🎉🎊
+<!--#### Celebrating Open Source with HacktoberFest 2023✨🎉🎊
 [![An image of @ishitaagl20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitaagl20)](https://holopin.io/@ishitaagl20)
 
-<!--[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)-->
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)-->
 
 
 

@@ -3,9 +3,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="290" height ="180" align="right" padding="200">
 
 - 👩‍💻 I am a Computer Science and Engineering Student
+- 💻 I interned at Microsoft as a Software Enginner
 - ✨ I am a Women Engineers Scholar 
-- 📊 I am an aspiring Data Analyst
-- 🔭 I am exploring Data Sciene, Web Development and Cloud Computing
 - 🎨 I like creative designing
 
 

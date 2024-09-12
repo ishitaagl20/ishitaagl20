@@ -7,6 +7,14 @@
 - ✨ I am a Women Engineers Scholar 
 - 🎨 I like creative designing
 
+### Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-agarwal-20/)
+
+<!--#### Celebrating Open Source with HacktoberFest 2023✨🎉🎊
+[![An image of @ishitaagl20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitaagl20)](https://holopin.io/@ishitaagl20)
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)-->
+
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,13 +40,7 @@
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
 
 
-### Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-agarwal-20/)
 
-<!--#### Celebrating Open Source with HacktoberFest 2023✨🎉🎊
-[![An image of @ishitaagl20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitaagl20)](https://holopin.io/@ishitaagl20)
-
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ishitaagl20)-->
 
 
 

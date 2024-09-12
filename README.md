@@ -4,8 +4,8 @@
 
 - 👩‍💻 I am a Computer Science and Engineering Student
 - 💻 I interned at Microsoft as a Software Engineer
-- ✨ I am a Women Engineers Scholar 
-- 🎨 I like creative designing
+- ✨ I am an Alumna of the the Women Engineer's Program Sponsored by Google 
+- 🎨 I like coding, creative designing, exploring new places & binge watching!
 
 ### Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-agarwal-20/)
